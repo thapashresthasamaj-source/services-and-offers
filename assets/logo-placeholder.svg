@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="95" fill="#fff" stroke="#c8202f" stroke-width="5"/>
+  <circle cx="100" cy="100" r="70" fill="none" stroke="#c8202f" stroke-width="3"/>
+  <path d="M100 48c11 15 15 25 15 33a15 15 0 0 1-30 0c0-8 4-18 15-33z" fill="#f37021"/>
+  <path d="M66 104h68c0 19-15 31-34 31s-34-12-34-31z" fill="#c8202f"/>
+  <text x="100" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="22" fill="#1d3a8f">TSS</text>
+</svg>
